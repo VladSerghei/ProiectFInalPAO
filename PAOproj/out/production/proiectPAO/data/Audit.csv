@@ -1,0 +1,51 @@
+command,executionTime
+Loaded doctors,29:05:2020 05:01:59
+Loaded patients,29:05:2020 05:01:59
+Loaded prescriptions,29:05:2020 05:01:59
+Requested doctors,29:05:2020 05:01:59
+Added doctor,29:05:2020 05:01:59
+Added doctor,29:05:2020 05:01:59
+Requested doctors,29:05:2020 05:01:59
+Removed doctor,29:05:2020 05:01:59
+Requested doctors,29:05:2020 05:01:59
+Requested change first name of a doctor,29:05:2020 05:01:59
+Requested change last name of a doctor,29:05:2020 05:01:59
+Requested doctors,29:05:2020 05:01:59
+Requested doctors by idNo,29:05:2020 05:01:59
+Requested doctors by first name,29:05:2020 05:01:59
+Requested doctors by last name,29:05:2020 05:01:59
+Requested family doctors,29:05:2020 05:01:59
+Requested specialist doctors,29:05:2020 05:01:59
+Requested patients,29:05:2020 05:01:59
+Added patient,29:05:2020 05:01:59
+Added patient,29:05:2020 05:01:59
+Requested patients,29:05:2020 05:01:59
+Removed a patient,29:05:2020 05:01:59
+Requested patients,29:05:2020 05:01:59
+Requested change first name of a patient,29:05:2020 05:01:59
+Requested change last name of a patient,29:05:2020 05:01:59
+Requested change age of a patient,29:05:2020 05:01:59
+Requested change weight of a patient,29:05:2020 05:01:59
+Requested change height of a patient,29:05:2020 05:01:59
+Requested patients,29:05:2020 05:01:59
+Requested civil patients,29:05:2020 05:01:59
+Requested military patients,29:05:2020 05:01:59
+Requested patient by SSN,29:05:2020 05:01:59
+Requested patients by first name,29:05:2020 05:01:59
+Requested patients by last name,29:05:2020 05:01:59
+Requested prescriptions,29:05:2020 05:01:59
+Added prescription,29:05:2020 05:01:59
+Added prescription,29:05:2020 05:01:59
+Requested prescriptions,29:05:2020 05:01:59
+Removed a prescription,29:05:2020 05:01:59
+Requested prescriptions,29:05:2020 05:01:59
+Requested prescription by index,29:05:2020 05:01:59
+Requested prescriptions by medication,29:05:2020 05:01:59
+Requested prescriptions by prescribing doctor idNo,29:05:2020 05:01:59
+Requested appointment prescriptions,29:05:2020 05:01:59
+Requested doctors,29:05:2020 05:01:59
+Saved doctors,29:05:2020 05:01:59
+Requested patients,29:05:2020 05:01:59
+Saved patients,29:05:2020 05:01:59
+Requested prescriptions,29:05:2020 05:01:59
+Saved prescriptions,29:05:2020 05:01:59

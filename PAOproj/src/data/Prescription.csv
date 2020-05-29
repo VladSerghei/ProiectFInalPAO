@@ -1,0 +1,6 @@
+index,medication,prescribingDoctorIdNo,appointedDoctorIdNo
+2,aspirina,1,null
+3,algocalmin,2,null
+4,strepsils,3,1
+5,algocalmin,2,null
+6,strepsils,3,1
